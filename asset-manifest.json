@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/lawzone/static/js/main.df9e6cac.js",
+    "main.js": "/lawzone/static/js/main.df7b3285.js",
     "index.html": "/lawzone/index.html",
-    "main.df9e6cac.js.map": "/lawzone/static/js/main.df9e6cac.js.map"
+    "main.df7b3285.js.map": "/lawzone/static/js/main.df7b3285.js.map"
   },
   "entrypoints": [
-    "static/js/main.df9e6cac.js"
+    "static/js/main.df7b3285.js"
   ]
 }
